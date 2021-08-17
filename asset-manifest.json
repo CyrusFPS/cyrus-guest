@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cyrus-guest/static/css/main.93ebe635.chunk.css",
+    "main.js": "/cyrus-guest/static/js/main.ca65bf00.chunk.js",
+    "main.js.map": "/cyrus-guest/static/js/main.ca65bf00.chunk.js.map",
+    "runtime-main.js": "/cyrus-guest/static/js/runtime-main.c46589b2.js",
+    "runtime-main.js.map": "/cyrus-guest/static/js/runtime-main.c46589b2.js.map",
+    "static/js/2.3c78901a.chunk.js": "/cyrus-guest/static/js/2.3c78901a.chunk.js",
+    "static/js/2.3c78901a.chunk.js.map": "/cyrus-guest/static/js/2.3c78901a.chunk.js.map",
+    "index.html": "/cyrus-guest/index.html",
+    "static/css/main.93ebe635.chunk.css.map": "/cyrus-guest/static/css/main.93ebe635.chunk.css.map",
+    "static/js/2.3c78901a.chunk.js.LICENSE.txt": "/cyrus-guest/static/js/2.3c78901a.chunk.js.LICENSE.txt",
+    "static/media/css.b1dc9eeb.png": "/cyrus-guest/static/media/css.b1dc9eeb.png",
+    "static/media/css3.286a9900.png": "/cyrus-guest/static/media/css3.286a9900.png",
+    "static/media/github.1c95b85d.png": "/cyrus-guest/static/media/github.1c95b85d.png",
+    "static/media/html.91c24f93.png": "/cyrus-guest/static/media/html.91c24f93.png",
+    "static/media/mongo.8d910588.png": "/cyrus-guest/static/media/mongo.8d910588.png",
+    "static/media/node.8e341cc0.png": "/cyrus-guest/static/media/node.8e341cc0.png",
+    "static/media/postgres.9f8f5cd9.png": "/cyrus-guest/static/media/postgres.9f8f5cd9.png",
+    "static/media/react.a544fd8c.png": "/cyrus-guest/static/media/react.a544fd8c.png",
+    "static/media/redux.1b4bb5fc.png": "/cyrus-guest/static/media/redux.1b4bb5fc.png",
+    "static/media/twitter.def7d13d.png": "/cyrus-guest/static/media/twitter.def7d13d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46589b2.js",
+    "static/js/2.3c78901a.chunk.js",
+    "static/css/main.93ebe635.chunk.css",
+    "static/js/main.ca65bf00.chunk.js"
+  ]
+}
